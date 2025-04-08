@@ -8,11 +8,16 @@ background-color: #6BA5DB;
 width: 468px;
 height: 664px;
 background-color: purple;
-
-    }
+}
 
 .moldura{
 width: 116px;
 height: 114px;
 background-color: red;
             }
+
+.rodape{
+width: 440px;
+height: 32px;
+background-color: blue;
+}
