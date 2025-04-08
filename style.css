@@ -10,14 +10,14 @@ height: 664px;
 background-color: purple;
 }
 
-.moldura{
+.retangulo{
 width: 116px;
 height: 114px;
 background-color: red;
             }
 
 .rodape{
-width: 440px;
+width: 1px;
 height: 32px;
 background-color: blue;
 }
