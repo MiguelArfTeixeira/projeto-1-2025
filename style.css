@@ -8,6 +8,9 @@
     width: 468px;
     height: 664px;
     background-color: purple;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 
 }
 
