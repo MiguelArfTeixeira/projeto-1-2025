@@ -26,6 +26,8 @@
     width: 468px;
     height: 32px;
     background-color: blue;
+    display: flex;
+    flex-direction: column;
 }
 
 .tamanhoimagem {
